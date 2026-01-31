@@ -2,7 +2,7 @@
 
 Trudosys is a **cloud automation and software development company** specializing in **DevOps pipelines, AI-powered platforms, SaaS development, and scalable web applications** for startups and enterprises worldwide.
 
-🌐 Website: https://Trudosys.com  
+🌐 Website: https://trudosys.com  
 📍 Location: Bengaluru, India  
 💼 Services: Cloud Automation, DevOps, Custom Software, AI Solutions, SaaS Development
 
@@ -36,6 +36,6 @@ Trudosys is a **cloud automation and software development company** specializing
 ---
 
 ## Connect With Us
-- Website: https://Trudosys.com
+- Website: https://trudosys.com
 - LinkedIn: https://www.linkedin.com/company/Trudosys
 - GitHub: https://github.com/Trudosysgithub
